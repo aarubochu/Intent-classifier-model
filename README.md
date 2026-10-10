@@ -5,7 +5,7 @@ This small project demonstrates:
 - Saving the model artifact.
 - Serving predictions via a Flask API (`/predict`).
 
-## Quick start (local)
+## Quick start using (local)
 1. Create a virtualenv and install:
     python3 -m venv .venv
     source .venv/bin/activate
